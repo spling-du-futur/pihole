@@ -1,5 +1,5 @@
 # Pihole DNS Blacklist
-This is my custom Blacklist for AD content for my Pihole Device
+This is my custom Blacklist for AD content for my Pihole Device but I think you prefer this list if you have a web server listening on your computer, it replaces all blocked domains with 0.0.0.0 instead of 127.0.0.1
 
 ### GUI Web
 
