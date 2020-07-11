@@ -13,7 +13,7 @@ Enter on your admin page
 
 Enter the URL on your Setting/Blocklists
 
-https://raw.githubusercontent.com/HeribertoKubuntu/pihole/master/PiholeBlackList.txt
+https://raw.githubusercontent.com/spling-du-futur/pihole/master/PiholeBlackList.txt
 
 **Save and Update**
 
