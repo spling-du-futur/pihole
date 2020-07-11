@@ -8,6 +8,7 @@
 #
 # AD SERVERS START HERE
 #
+0.0.0.0 srv.carbonads.net
 0.0.0.0 adserver-live.yoc.mobi
 0.0.0.0 admax.nexage.com
 0.0.0.0 mm.admob.com
